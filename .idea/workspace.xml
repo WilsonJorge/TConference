@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3553464f-3bb5-4c4d-99ff-022a2a7c51cf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Descricao/Descricao.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-and/back-and/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-and/back-and/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-and/back-and/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-and/back-and/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-and/back-and/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-and/back-and/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-and/back-and/src/main/java/tconference/backend/BackAndApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-and/back-and/src/main/java/tconference/backend/controller/ReservationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-and/back-and/src/main/java/tconference/backend/controller/RoomController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-and/back-and/src/main/java/tconference/backend/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-and/back-and/src/main/java/tconference/backend/model/Reservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-and/back-and/src/main/java/tconference/backend/model/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-and/back-and/src/main/java/tconference/backend/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-and/back-and/src/main/java/tconference/backend/repository/ReservationRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-and/back-and/src/main/java/tconference/backend/repository/RoomRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-and/back-and/src/main/java/tconference/backend/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-and/back-and/src/main/java/tconference/backend/service/ReservationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-and/back-and/src/main/java/tconference/backend/service/RoomService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-and/back-and/src/main/java/tconference/backend/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-and/back-and/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-and/back-and/src/test/java/tconference/backend/BackAndApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-and/back-and/src/test/java/tconference/backend/RoomServiceIntegrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-and/back-and/src/test/java/tconference/backend/RoomServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-and/tconference" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2bML9I2m8O9CksqknVao4zISRIa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/PROJECTOS/SIDE-PROJECTS/TConference",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "a115a25065b29adfe4c0b73391cd5b3a",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="tconference.backend.model" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="tconference.backand" />
+      <recent name="tconference" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BackAndApplication">
+    <configuration name="RoomServiceIntegrationTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="back-end" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tconference.backend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tconference.backend" />
+      <option name="MAIN_CLASS_NAME" value="tconference.backend.RoomServiceIntegrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoomServiceIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="back-end" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tconference.backend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tconference.backand" />
+      <option name="MAIN_CLASS_NAME" value="tconference.backand.RoomServiceIntegrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoomServiceIntegrationTest.testGetAllRooms (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="back-end" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tconference.backend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tconference.backend" />
+      <option name="MAIN_CLASS_NAME" value="tconference.backend.RoomServiceIntegrationTest" />
+      <option name="METHOD_NAME" value="testGetAllRooms" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoomServiceIntegrationTest.testGetAllRooms" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="back-end" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tconference.backend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tconference.backand" />
+      <option name="MAIN_CLASS_NAME" value="tconference.backand.RoomServiceIntegrationTest" />
+      <option name="METHOD_NAME" value="testGetAllRooms" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoomServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="back-end" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tconference.backend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tconference.backand" />
+      <option name="MAIN_CLASS_NAME" value="tconference.backend.RoomServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BackAndApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="back-end" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="tconference.backend.BackAndApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RoomServiceIntegrationTest.testGetAllRooms (1)" />
+        <item itemvalue="JUnit.RoomServiceIntegrationTest (1)" />
+        <item itemvalue="JUnit.RoomServiceIntegrationTest" />
+        <item itemvalue="JUnit.RoomServiceIntegrationTest.testGetAllRooms" />
+        <item itemvalue="JUnit.RoomServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3553464f-3bb5-4c4d-99ff-022a2a7c51cf" name="Changes" comment="" />
+      <created>1706019847526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706019847526</updated>
+      <workItem from="1706019849109" duration="1037000" />
+      <workItem from="1706109397641" duration="2242000" />
+      <workItem from="1706297720849" duration="38373000" />
+      <workItem from="1706901848544" duration="11503000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
