@@ -1,21 +1,16 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import Home from './Components/Home';
-import Profile from './Components/Profile';
-import Settings from './Components/Settings';
+import { BrowserRouter as Router, Route} from 'react-router-dom';
+import Dashboard from './Componentes/Dashboard';
 
 function App() {
   return (
     <Router>
       <div>
-        <Switch>
-          <Route path="/" exact component={Home} />
-          <Route path="/profile" component={Profile} />
-          <Route path="/settings" component={Settings} />
-        </Switch>
+        <Dashboard />
       </div>
     </Router>
   );
 }
 
 export default App;
+
